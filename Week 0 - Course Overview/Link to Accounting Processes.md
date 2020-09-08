@@ -20,3 +20,4 @@ This course serves as a framework for accounting professionals to understand the
 6.  Corporate finance and strategic planning
 7.  Internal and external audit analytics
 8.  Consulting and advisory for modernizing analytics of firms
+9.  Allowance for Doubtful Accounts and other Forward Looking Accounting Practices
